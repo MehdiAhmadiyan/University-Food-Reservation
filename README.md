@@ -1,4 +1,4 @@
-👋 **A Quick Note:** This is one of my very first projects in C++, and I've put a lot of effort into making both the project and this detailed README as complete as possible as part of my learning journey! It was a practice for learning C++ and git & github together :)##
+👋 **A Quick Note:** This is one of my very first projects in C++, and I've put a lot of effort into making both the project and this detailed README as complete as possible as part of my learning journey! It was a practice for learning C++ and git & github together :)
 
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg) 
